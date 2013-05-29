@@ -16,6 +16,7 @@ You're ready!
 
 To use it :
     In a layout file :
+    
     <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
@@ -25,6 +26,7 @@ To use it :
         android:textColor="#F59012"
         android:textAppearance="?android:attr/textAppearanceLarge" />
     Or in a class :
+    
     myTextView.setText(getString(R.string.icon_credit_card));
     
     
