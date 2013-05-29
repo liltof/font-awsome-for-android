@@ -15,8 +15,9 @@ Just replace the string.xml file in the values directory of your android project
 You're ready!
 
 To use it :
+
     In a layout file :
-    <TextView
+	<TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
