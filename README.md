@@ -4,7 +4,8 @@ font-awsome-for-android DEPRECATED, NO LONGER MAINTAINED
 Font awesome for android. Icons are from an OLD version of font awesome, and will no longer be maintained, but this can be a good example if you want to add font awesome icons to your app 
 
 This is just a file that contains all font codes from font awesome, converted into an android string xml
-
+Here seems to be a good fork, where you can generate a the xml from new versions of fontawesome (I didn't test it)
+https://github.com/aasdkl/font-awsome-for-android
 HOW TO :
 ========
 Download the font-awesome.zip from fontawesome-webfont.ttf from http://fortawesome.github.io/Font-Awesome/
